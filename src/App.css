@@ -1,0 +1,13 @@
+.centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+h1 {
+    color: #4B61A8;
+    font-size: 64px;
+}
