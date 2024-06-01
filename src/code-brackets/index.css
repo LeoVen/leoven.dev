@@ -1,0 +1,10 @@
+.code-brackets-row {
+  display: grid;
+  grid-template-columns: 1ch 1fr 1ch;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.code-brackets-text {
+  overflow: hidden;
+}
